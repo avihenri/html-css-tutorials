@@ -37,8 +37,8 @@ We can also link to an email address to open the user's default mail app:
 
 Links can take a relative path or an absolute path:
 1. **relative path**: Is a local link to your application
-   - Example: <a href="./04-html-links/example.html">HTML Images</a> <!-- ./ is the root of your application -->
-   - Example: <a href="../03-html-text/example.html">HTML Images</a> <!-- ../ goes back a directory to reach a level up from where this tag is declared -->
+   - Example: <a href="/04-html-links/example.html">HTML Links Example</a> <!-- / is the root of your application -->
+   - Example: <a href="../03-html-text/example.html">HTML Text Example</a> <!-- ../ goes back a directory to reach a level up from where this tag is declared -->
 2. **absolute**: Is a link to a full website with http:// or https://
    - Example: <a href="https://www.example.com/">Example website</a>
 
