@@ -20,13 +20,13 @@ With HTML links, you can:
 The anchor tag has a few attributes:
 
 1. **href**: Required attribute, determining the link's destination
-   - Example: `<a href="http://example.com">example.com</a>
+   - Example: `<a href="http://example.com">example.com</a>`
 2. **target**: Optional attribute, determines where to open the link. By default, links are open in current window/tab `_self`
-   - Example: `<a href="http://example.com" target="_blank">example.com</a>
+   - Example: `<a href="http://example.com" target="_blank">example.com</a>`
       - opens in a new window/tab
-   - Example: `<a href="http://example.com" target="_parent">example.com</a>
+   - Example: `<a href="http://example.com" target="_parent">example.com</a>`
       - opens in a the parent frame
-   - Example: `<a href="http://example.com" target="_top">example.com</a>
+   - Example: `<a href="http://example.com" target="_top">example.com</a>`
       - opens in a the full body window
 3. **title**: Optional attribute, provides extra information for tooltips
 
