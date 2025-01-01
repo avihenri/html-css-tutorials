@@ -8,4 +8,6 @@ Create a webpage with the following structure:
 5. A `<h5>` for the item "Maple Syrup".
 6. A `<h6>` for the item "More bacon".
 
+Bonus: add a title "HTML Headings"
+
 Save your file as `exercise.html`.
