@@ -43,4 +43,4 @@ Here’s a list of common HTML text tags and their usage:
     - Example: `x<sup>2</sup>`
 
 
-<!-- [Next Lesson: HTML ](../04-html-/README.md) -->
+[Next Lesson: HTML Links](../05-html-links/README.md)
